@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(218, 229, 241);
+}
+
+
+h1,h2{
+  color: rgb(28, 141, 141);
+}
+p{
+  color: #9a3737;
+  
+}
+
+#login{
+  background-color: rgb(174, 226, 211);
+  color: rgb(10, 64, 87);
+}
